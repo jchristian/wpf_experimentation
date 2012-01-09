@@ -44,6 +44,12 @@ namespace UI
 
                 var button = (Button)writer.Result;
             }
+
+            var button1 = XamlServices.Load("./Button.xaml");
+            var button2 = XamlServices.Load(new XamlObjectReader(new Button()));
+            var button3 = XamlServices.Load(new StringReader("<Button xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\">This is a button</Button>"));
+            var button4 = XamlServices.Parse("<Button xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\">This is a button</Button>");
+            XamlServices.Save("./Test2.xaml", new Button());
         }
     }
 }
