@@ -1,0 +1,1 @@
+﻿<Button xmlns="http://schemas.microsoft.com/netfx/2009/xaml/presentation"  xmlns:UI="clr-namespace:WpfCommandResolver;assembly=WpfCommandResolver" Click="{UI:CommandResolver}"></Button>

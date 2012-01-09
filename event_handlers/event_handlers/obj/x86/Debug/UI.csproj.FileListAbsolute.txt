@@ -1,0 +1,15 @@
+C:\dev\wpf_experimentation\event_handlers\event_handlers\bin\Debug\UI.exe
+C:\dev\wpf_experimentation\event_handlers\event_handlers\bin\Debug\UI.pdb
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\MainWindow.baml
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\MainWindow.g.cs
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\App.g.cs
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI_MarkupCompile.cache
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI.g.resources
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI.Properties.Resources.resources
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI.exe
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI.pdb
+C:\dev\wpf_experimentation\event_handlers\event_handlers\obj\x86\Debug\UI_Content.g.cs
+C:\dev\wpf_experimentation\event_handlers\event_handlers\bin\Debug\CommandButton.xaml

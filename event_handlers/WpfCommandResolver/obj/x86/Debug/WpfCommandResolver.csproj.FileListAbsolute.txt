@@ -1,0 +1,8 @@
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\bin\Debug\WpfCommandResolver.dll
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\bin\Debug\WpfCommandResolver.pdb
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\WpfCommandResolver.Properties.Resources.resources
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\WpfCommandResolver.dll
+C:\dev\wpf_experimentation\event_handlers\WpfCommandResolver\obj\x86\Debug\WpfCommandResolver.pdb
