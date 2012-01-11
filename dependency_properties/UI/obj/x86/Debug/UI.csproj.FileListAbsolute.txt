@@ -1,0 +1,16 @@
+C:\Dev\wpf_experimentation\dependency_properties\UI\bin\Debug\UI.exe
+C:\Dev\wpf_experimentation\dependency_properties\UI\bin\Debug\UI.pdb
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\AwesomeTextbox.baml
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\MainWindow.baml
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\AwesomeTextbox.g.cs
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\App.g.cs
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.g.resources
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.exe
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI.pdb
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\wpf_experimentation\dependency_properties\UI\obj\x86\Debug\UI_MarkupCompile.lref

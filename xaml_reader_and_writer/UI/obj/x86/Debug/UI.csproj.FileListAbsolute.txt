@@ -1,0 +1,13 @@
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\bin\Debug\UI.exe
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\bin\Debug\UI.pdb
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\MainWindow.baml
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.g.resources
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.exe
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\UI.pdb
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\CustomControl.baml
+C:\Dev\WpfExpirementation\XamlReaderAndWriter\UI\obj\x86\Debug\CustomControl.g.cs

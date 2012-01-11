@@ -1,0 +1,24 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:UI="clr-namespace:UI" xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Collections="clr-namespace:System.Collections;assembly=mscorlib" Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Label Content="{UI:FromCache HelloMessage}" />
+        <Label>
+        <Label.Content>
+                <UI:FromCache>
+                    <UI:FromCache.Name>
+                        HelloMessage
+                    </UI:FromCache.Name>
+                </UI:FromCache>
+            </Label.Content>
+        </Label>
+        <UI:TestCollection x:Name="MyTestCollection">
+            <UI:TestCollection.List>
+                <Collections:ArrayList>
+                    <System:String>Test</System:String>
+                    <System:String>Test2</System:String>
+                </Collections:ArrayList>
+            </UI:TestCollection.List>
+        </UI:TestCollection>
+    </StackPanel>
+</Window>

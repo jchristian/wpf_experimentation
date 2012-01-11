@@ -1,0 +1,16 @@
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\App.g.cs
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI_MarkupCompile.cache
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\bin\Debug\UI.exe
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\bin\Debug\UI.pdb
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI_MarkupCompile.lref
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\MainWindow.baml
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.g.resources
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.Properties.Resources.resources
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.exe
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\UI.pdb
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\TestCollection.baml
+C:\Dev\WpfExpirementation\CustomMarkupExtension\UI\obj\x86\Debug\TestCollection.g.cs
