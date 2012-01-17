@@ -23,7 +23,7 @@ namespace UI
             TheGrid.Children.Add(button);
             TheGrid.Children.Add(textBlock);
 
-            TheOrderedStackPanel.Order();
+            //TheOrderedStackPanel.Order();
         }
     }
 }

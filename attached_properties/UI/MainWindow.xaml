@@ -10,9 +10,10 @@
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <UI:OrderedStackPanel x:Name="TheOrderedStackPanel" Grid.Column="0" Grid.Row="1">
+        <UI:OrderedStackPanel x:Name="TheOrderedStackPanel" Grid.Column="0" Grid.Row="1" TextElement.FontSize="30">
             <Button UI:OrderedStackPanel.Order="1">Button 1</Button>
             <Button UI:OrderedStackPanel.Order="0">Button 2</Button>
+            <TextBox></TextBox>
         </UI:OrderedStackPanel>
     </Grid>
 </Window>

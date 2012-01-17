@@ -7,7 +7,7 @@ namespace UI
 {
     public class OrderedStackPanel : StackPanel
     {
-        public static DependencyProperty OrderProperty = DependencyProperty.RegisterAttached("Order", typeof(int), typeof(OrderedStackPanel));
+        public static DependencyProperty OrderProperty = DependencyProperty.RegisterAttached("Order", typeof(int), typeof(OrderedStackPanel), new FrameworkPropertyMetadata(0, FrameworkPropertyMetadataOptions.AffectsRender));
 
         public static void SetOrder(DependencyObject element, int value)
         {
@@ -17,6 +17,11 @@ namespace UI
         public static int GetOrder(DependencyObject element)
         {
             return (int)element.GetValue(OrderProperty);
+        }
+
+        public OrderedStackPanel()
+        {
+            LayoutUpdated += (s, e) => Order();
         }
 
         public void Order()
