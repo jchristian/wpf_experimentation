@@ -1,0 +1,12 @@
+﻿<Window x:Class="UI.visibility.Visibility"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Visibility" Height="300" Width="300">
+    <StackPanel>
+        <Button Visibility="Visible">One</Button>
+        <Button Visibility="Collapsed">Two</Button>
+        <Button Visibility="Visible">Three</Button>
+        <Button Visibility="Hidden">Four</Button>
+        <Button Visibility="Visible">Five</Button>
+    </StackPanel>
+</Window>
