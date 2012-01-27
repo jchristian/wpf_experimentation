@@ -17,5 +17,30 @@ namespace UI
         {
             new Canvas().ShowDialog();
         }
+
+        void StackPanelButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new stackpanel.StackPanel().ShowDialog();
+        }
+
+        void WrapPanelButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new wrappanel.WrapPanel().ShowDialog();
+        }
+
+        void DockPanelButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new dockpanel.DockPanel().ShowDialog();
+        }
+
+        void GridPanelButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new grid.Grid().ShowDialog();
+        }
+
+        void ClippingButton_OnClick(object sender, RoutedEventArgs e)
+        {
+            new clipping.Clipping().ShowDialog();
+        }
     }
 }

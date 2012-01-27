@@ -12,3 +12,13 @@ C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\UI.Properties.Resour
 C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\UI.csproj.GenerateResource.Cache
 C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\UI.exe
 C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\UI.pdb
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\stackpanel\StackPanel.baml
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\wrappanel\WrapPanel.baml
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\stackpanel\StackPanel.g.cs
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\wrappanel\WrapPanel.g.cs
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\dockpanel\DockPanel.baml
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\grid\Grid.baml
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\dockpanel\DockPanel.g.cs
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\grid\Grid.g.cs
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\clipping\Clipping.baml
+C:\Dev\wpf_experimentation\panels_and_such\UI\obj\x86\Debug\clipping\Clipping.g.cs

@@ -2,7 +2,12 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <StackPanel>
         <Button x:Name="CanvasButton" Click="CanvasButton_OnClick">Canvas</Button>
-    </Grid>
+        <Button x:Name="StackPanelButton" Click="StackPanelButton_OnClick">Stack Panel</Button>
+        <Button x:Name="WrapPanelButton" Click="WrapPanelButton_OnClick">Wrap Panel</Button>
+        <Button x:Name="DockPanel" Click="DockPanelButton_OnClick">Dock Panel</Button>
+        <Button x:Name="GridPanel" Click="GridPanelButton_OnClick">Grid Panel</Button>
+        <Button x:Name="Clipping" Click="ClippingButton_OnClick">Clipping</Button>
+    </StackPanel>
 </Window>
