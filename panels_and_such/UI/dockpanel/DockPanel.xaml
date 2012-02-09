@@ -14,7 +14,8 @@
         <Button DockPanel.Dock="Bottom">Button 2</Button>
         <Button DockPanel.Dock="Left">Button 3</Button>
         <Button DockPanel.Dock="Right">Button 4</Button>
-        <Button DockPanel.Dock="Top">Button 6</Button>
-        <Button>Button 5</Button>
+        <Button DockPanel.Dock="Top">Button 5</Button>
+        <Button>Button 6</Button>
+        <Button>Button 7</Button>
     </DockPanel>
 </Window>

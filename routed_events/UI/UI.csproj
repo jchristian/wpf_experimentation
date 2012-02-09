@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{85050604-327E-4518-BF59-08B9A53D52A5}</ProjectGuid>
+    <ProjectGuid>{82A8FF1C-31C3-4B94-8A28-038F15CBC276}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UI</RootNamespace>
@@ -55,40 +55,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="clipping\Clipping.xaml.cs">
-      <DependentUpon>Clipping.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="dockpanel\DockPanel.xaml.cs">
-      <DependentUpon>DockPanel.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="grid\Grid.xaml.cs">
-      <DependentUpon>Grid.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="scaling\Scaling.xaml.cs">
-      <DependentUpon>Scaling.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="stackpanel\StackPanel.xaml.cs">
-      <DependentUpon>StackPanel.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="wrappanel\WrapPanel.xaml.cs">
-      <DependentUpon>WrapPanel.xaml</DependentUpon>
-    </Compile>
-    <Page Include="canvas\Canvas.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="clipping\Clipping.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="dockpanel\DockPanel.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="grid\Grid.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -97,25 +63,10 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="canvas\Canvas.xaml.cs">
-      <DependentUpon>Canvas.xaml</DependentUpon>
-    </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="scaling\Scaling.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="stackpanel\StackPanel.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="wrappanel\WrapPanel.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">

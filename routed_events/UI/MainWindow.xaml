@@ -1,0 +1,16 @@
+﻿<Window x:Class="UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <TextBlock Name="TheText" Height="50" FontSize="32" Margin="10" TextAlignment="Center">This is a block of text foo</TextBlock>
+        <Button Name="TheOuterButton">
+            <StackPanel>
+                <TextBlock>This is the outer button</TextBlock>
+                <Button Name="TheInnerButton">This is the inner button</Button>
+            </StackPanel>
+        </Button>
+        
+        <TextBox Name="TheTextBox"></TextBox>
+    </StackPanel>
+</Window>

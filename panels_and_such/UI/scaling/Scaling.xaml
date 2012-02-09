@@ -2,9 +2,10 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Scaling" Height="300" Width="300">
-    <Viewbox Stretch="Fill">
-        <Grid>
+    <Grid>
+        <TextBlock TextWrapping="Wrap">This is a long block of text that should really be on multiple lines but isn't because it is in a ViewBox.</TextBlock>
+        <!--<Grid>
             <Button>Button 1</Button>
-        </Grid>
-    </Viewbox>
+        </Grid>-->
+    </Grid>
 </Window>
