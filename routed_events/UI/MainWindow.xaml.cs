@@ -1,5 +1,7 @@
-﻿using System.Linq;
+﻿using System.Diagnostics;
+using System.Linq;
 using System.Windows;
+using System.Windows.Controls;
 using System.Windows.Media;
 
 namespace UI
@@ -12,6 +14,9 @@ namespace UI
         public MainWindow()
         {
             InitializeComponent();
+
+            //AddHandler(MouseRightButtonDownEvent, new MouseButtonEventHandler(Window_MouseRightButtonDown), true);
+            AddHandler(CustomButton.BubbledClickEvent, new RoutedEventHandler(AddBorder));
 
             MouseDown += (s, e) =>
             {
@@ -54,6 +59,36 @@ namespace UI
                 if (e.Text.ToCharArray().All(x => !numbers.Contains(x)))
                     e.Handled = true;
             };
+
+            TheCustomButton.DirectClick += (s, e) => Debug.WriteLine("Outer Direct Click");
+            TheCustomButton.TunneledClick += (s, e) => Debug.WriteLine("Outer Tunneled Click");
+            TheCustomButton.BubbledClick += (s, e) => Debug.WriteLine("Outer Bubbled Click");
+            TheInnerCustomButton.DirectClick += (s, e) => Debug.WriteLine("Inner Direct Click");
+            TheInnerCustomButton.TunneledClick += (s, e) => Debug.WriteLine("Inner Tunneled Click");
+            TheInnerCustomButton.BubbledClick += (s, e) => Debug.WriteLine("Inner Bubbled Click");
+        }
+
+        void Window_MouseRightButtonDown(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+            var source = e.Source as Control;
+
+            source.BorderBrush = Brushes.Black;
+            source.BorderThickness = new Thickness(5);
+        }
+
+        void AddBorder(object sender, RoutedEventArgs e)
+        {
+            var alternateColor = Brushes.Turquoise;
+
+            TheWindow.BorderBrush = TheWindow.BorderBrush == alternateColor ? Brushes.Black : alternateColor;
+            TheWindow.BorderThickness = new Thickness(5);
+        }
+
+        private void StackPanel_Click(object sender, RoutedEventArgs e)
+        {
+            var alternateColor = Brushes.BurlyWood;
+
+            TheMainStackPanel.Background = TheMainStackPanel.Background == alternateColor ? Brushes.White : alternateColor;
         }
     }
 }
