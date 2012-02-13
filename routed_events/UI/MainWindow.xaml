@@ -11,6 +11,6 @@
             </StackPanel>
         </Button>
         
-        <TextBox Name="TheTextBox"></TextBox>
+        <TextBox Name="TheTextBox" />
     </StackPanel>
 </Window>
