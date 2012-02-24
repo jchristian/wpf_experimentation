@@ -12,9 +12,14 @@
                 <Button Name="TheInnerButton">This is the inner button</Button>
             </StackPanel>
         </Button>
+<<<<<<< HEAD
+        
+        <TextBox Name="TheTextBox" />
+=======
         <TextBox Name="TheTextBox"></TextBox>
         <UI:CustomButton x:Name="TheCustomButton">
             <UI:CustomButton x:Name="TheInnerCustomButton">Woah, an inner button!  And it's custom!</UI:CustomButton>
         </UI:CustomButton>
+>>>>>>> 6a76b85c4688b2c8dc0cc6c2e3da218a88fbd92f
     </StackPanel>
 </Window>
