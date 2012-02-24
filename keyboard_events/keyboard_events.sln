@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{B7C57C5C-3E51-4AC5-9FB8-889DF822D842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C57C5C-3E51-4AC5-9FB8-889DF822D842}.Debug|x86.ActiveCfg = Debug|x86
+		{B7C57C5C-3E51-4AC5-9FB8-889DF822D842}.Debug|x86.Build.0 = Debug|x86
+		{B7C57C5C-3E51-4AC5-9FB8-889DF822D842}.Release|x86.ActiveCfg = Release|x86
+		{B7C57C5C-3E51-4AC5-9FB8-889DF822D842}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
